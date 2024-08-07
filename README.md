@@ -23,7 +23,7 @@ Dashboard :
 # Tableau Public (Dashboard) : 
 [https://public.tableau.com/app/profile/agus.adiyanto/viz/SaleseCommerceDashboard/DashboardSaleseCommerce](https://public.tableau.com/app/profile/agus.adiyanto/viz/SaleseCommerceDashboard/DashboardSaleseCommerce)
 
-Traktir ngopi :
+Follow me :
 - Instagram : [@agus.adiyanto](https://www.instagram.com/agus.adiyanto/)
 - Twitter : [@gusadiyanto](https://x.com/gusadiyanto)
 - LinkedIn : [https://www.linkedin.com/in/agusadiyanto](https://www.linkedin.com/in/agusadiyanto)
